@@ -1,0 +1,32 @@
+Day 1 -
+
+New Forms!
+
+-FrmLogin  Added
+	;;Added in one User. Cannot make new ones.
+	;;Made login recognize user name and password
+	;;Made password textbox hide charactors
+-FrmMain  Added
+	;;Added Desktop
+	;;Added 32 icons
+	;;Added simple icon handling system
+-FrmControlPanel  Added
+	;;Added temporary user name changing. Not perm
+-FrmInternet  Added
+	;;Added working internet browser with no bugs
+
+
+
+
+New Modules!
+
+-modConstants Added
+	;;Max Icons Constant
+-modLogic
+	;;Added begining temporary Icon Deleting System. Not perm
+	;;Added Icon image loading
+	;;Made Icon file type recognizing system
+	;;Added simple icon handling system
+
+Day 2 -
+

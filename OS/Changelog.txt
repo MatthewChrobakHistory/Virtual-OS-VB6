@@ -1,0 +1,28 @@
+16/01/2013
+
+- Started OS
+
+- Added
+	Client.vbp
+	Client.vbpw
+	MODConstants
+	MODDeskData
+	MODDmp
+	MODLogDat
+	MODTypes
+	PGContpnl
+	PGDesk
+	PGLog
+
+- Made Basic Folder Structure
+	System
+	Addons
+	Users
+
+- Built Loginscreen and made Users Creatable
+
+16/01/2013
+
+-Made Users Login
+- Built Desktop & Buttons
+- Built Run and Install Structure. Needs fixing
